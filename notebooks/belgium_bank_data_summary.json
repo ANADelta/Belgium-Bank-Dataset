@@ -1,0 +1,14 @@
+{
+    "Total Records": 6788,
+    "Duplicate IBAN Count": 132,
+    "Duplicate Account Number Count": 4077,
+    "Columns with Missing Data": {
+        "last_name": 4,
+        "initials": 43,
+        "house_number": 9,
+        "postal_code": 9,
+        "date_of_birth": 2734,
+        "account_number": 214,
+        "email": 7
+    }
+}
